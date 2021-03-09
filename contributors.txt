@@ -11,6 +11,7 @@ Weiliang Jordan Sun
 Kevin Finck
 Matt Tricomi
 Sankalp Patel
+Hardik Veguru
 Elizabeth Cannizzo
 Shiddharath Patel
 Dorzhi Denisov
